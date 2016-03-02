@@ -1,5 +1,5 @@
 {
-  "name": "python-node-keys",
+  "name": "sign",
   "version": "0.0.1",
   "description": "A proof of concept for signing and verifying documents between node and python",
   "main": "index.js",

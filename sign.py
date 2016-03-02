@@ -81,6 +81,7 @@ if __name__ == '__main__':
                 signature = load(args.signature)
             else:
                 signature = args.signature
+            signature = signature.strip()
 
         if args.output == '-':
             file_output = sys.stdout

@@ -3,7 +3,7 @@
  *
  */
 var should = require('chai').should(),
-    sign   = require('./index');
+    sign   = require('./sign');
 
 
 // For the love of all that is holy do NOT use this private key

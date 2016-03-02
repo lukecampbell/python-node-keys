@@ -1,0 +1,6 @@
+server.*
+*.key
+*.pub
+*.pyc
+*.swp
+node_modules/
